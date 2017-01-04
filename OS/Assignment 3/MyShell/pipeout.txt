@@ -1,0 +1,14 @@
+total 328
+drwxr-xr-x  13 staff    442 Nov 29 09:13 .
+drwxr-xr-x   4 staff    136 Nov 18 19:00 ..
+-rw-r--r--@  1 staff   6148 Nov 27 22:54 .DS_Store
+-rw-r--r--   1 staff   3482 Nov 17 23:01 Makefile
+-rwxr-xr-x   1 staff  71088 Nov 29 09:13 MyShell
+-rw-r--r--   1 staff   9100 Nov 29 09:13 MyShell.cpp
+-rw-r--r--@  1 staff      7 Nov 27 22:03 input.txt
+drwxr-xr-x  11 staff    374 Nov 17 23:01 nbproject
+-rw-r--r--   1 staff    514 Nov 28 21:02 output.txt
+-rw-r--r--   1 staff      0 Nov 29 09:13 pipeout.txt
+-rwxr-xr-x   1 staff  26120 Nov 28 23:48 test
+-rw-r--r--   1 staff   1083 Nov 29 00:43 test.cpp
+-rwxr-xr-x   1 staff  26128 Nov 28 20:55 test11

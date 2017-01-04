@@ -1,0 +1,14 @@
+MyShell: Makefile
+MyShell
+MyShell.cpp
+final.txt
+input.txt
+nbproject
+oo.txt
+out.txt
+output.txt
+pipeout.txt
+test
+test.cpp
+test11
+MyShell: 
